@@ -1,0 +1,5 @@
+projectKey=AdobeInternalDevSetup:Sample
+serverUrl=http://10.42.41.118:9000
+dashboardUrl=http://10.42.41.118:9000/dashboard/index/AdobeInternalDevSetup:Sample
+ceTaskId=AWPOuTdR1BBKFFveGqtA
+ceTaskUrl=http://10.42.41.118:9000/api/ce/task?id=AWPOuTdR1BBKFFveGqtA
